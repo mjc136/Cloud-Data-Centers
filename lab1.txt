@@ -1,0 +1,72 @@
+2. Cloud Computing
+
+Why is the Cloud Important?
+
+The cloud is popular because it helps people and businesses store and access data easily, saves money, and can be used from anywhere with the internet.
+
+Good Things About the Cloud
+
+Grows with Needs – It can increase or decrease storage and power when needed.
+
+Saves Money – No need to buy expensive hardware.
+
+Easy to Access – Can be used from any device with internet access.
+
+Problems with the Cloud
+
+Security Issues – Data is stored on someone else’s servers, which could be hacked.
+
+Internet Dependent – If the internet goes down, cloud services can’t be used.
+
+Less Control – Users rely on companies to manage and update cloud services.
+
+3. Virtualization and Virtual Machines
+
+What is a Hypervisor?
+
+A hypervisor is a program that lets one computer run multiple virtual computers by sharing its power and memory.
+
+4. What is a Virtual Machine?
+
+A virtual machine (VM) is like a computer inside a computer. It runs its own system and programs separately, even though it shares the same hardware.
+
+5. Why Use Virtual Machines?
+
+Keeps Things Separate – VMs don’t interfere with each other.
+
+Can Move Easily – VMs can be moved to different computers.
+
+Safer from Viruses – A virus in one VM won’t affect others.
+
+Saves Resources – Runs many VMs on one physical computer.
+
+Great for Testing – Developers can safely test programs without risk.
+
+6. How Are Virtual Machines Used?
+
+Building and Testing Software – Developers can test apps on different systems.
+
+Running Multiple Servers – A single computer can act like many servers.
+
+Using Old Software – Older programs can run on new computers.
+
+Cloud Services – Many cloud providers use VMs to host apps.
+
+Cybersecurity – VMs allow experts to test for security threats safely.
+
+7. B
+
+8. C
+
+9. C
+
+10. Copying Virtual Machines
+
+Copying a VM makes an exact duplicate, which is helpful for:
+
+Backup and Safety – If something goes wrong, a copy is ready.
+
+Fast Setup – New VMs can be made quickly.
+
+Testing – Trying things out without damaging the original VM.
+
