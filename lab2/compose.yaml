@@ -1,5 +1,7 @@
 services:
-  app:
-    image: docker/welcome-to-docker
-    ports:
-      - 8080:80
+  postgres:
+    image: postgres
+    entrypoint: ["docker-entrypoint.sh", "postgres"]
+    command: ["-h", "localhost", "-p", "5432"]
+    environment:
+      POSTGRES_PASSWORD: secret 
